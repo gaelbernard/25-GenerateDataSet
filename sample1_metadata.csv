@@ -1,0 +1,99 @@
+,count_unique_values,ratio_na,sample_10_values
+0,52,0.0,['l' 'd' 'D' 'A' 't' 'q' 'O' 's' 'P' 'Z']
+1,1950,0.8051,"[nan ""(Decimal('-43.370229'), Decimal('-44.614457'))""
+ ""(Decimal('59.5402475'), Decimal('77.193615'))""
+ ""(Decimal('55.233341'), Decimal('-156.693409'))""
+ ""(Decimal('10.0879275'), Decimal('176.530884'))""
+ ""(Decimal('-29.8044025'), Decimal('-73.377296'))""
+ ""(Decimal('-22.394965'), Decimal('0.622009'))""
+ ""(Decimal('-47.350290'), Decimal('178.575886'))""
+ ""(Decimal('-18.837567'), Decimal('-177.734397'))""
+ ""(Decimal('-3.226477'), Decimal('179.359047'))""]"
+2,10000,0.0,"['eb7436a5-b03c-45f2-a31c-7734a18585fb'
+ 'a201469e-ef65-4e54-ac71-b6c6267aff8f'
+ '09ec95f0-9975-4924-b991-4957b170a428'
+ 'c2b9426b-59b1-498d-bc6a-ed99c0ba9c8e'
+ '5ef8f6a2-362f-44bb-8243-c7c4cceaf7b3'
+ '21690347-9356-4bb3-9bd2-0e83b2f113e6'
+ '9f7c3716-deaa-46be-bd29-fdb5cb8a1e7f'
+ '69869ee3-6c38-4466-b89b-376494be5597'
+ 'b03c7f04-3699-40a9-9b29-6fcdee2388cc'
+ 'efd61c0d-ddb5-49a7-956e-3c07192cce70']"
+3,6,0.0518,['neutral' 'very high' 'high' 'low' 'very low' nan]
+4,541,0.946,"[nan
+ 'Beat me him but claim. Avoid course part different customer none hour. Simple woman phone.\nEconomic worry agency. Social window still tell building.\nSeek meeting author which give president miss.'
+ 'Blood drop once green wait memory anyone. Send some different idea.\nList realize cell. About budget success later share wonder whom. Budget management nice.'
+ 'Project address thank least book. Whole sister others off respond new.\nRelationship member prepare test total responsibility. Edge something full laugh.'
+ 'Majority care director right almost interesting some environment.\nFamily Republican sell serve environment. Its knowledge support rise that. Particular drop ready meeting simple mission magazine.'
+ 'Really stuff business ground. Development hear nothing everybody. Responsibility teach if life age somebody.\nOr significant page. Set mind those people. None begin threat week.'
+ 'Central enough boy center bank community floor. Onto far of hope partner thank. Hard early against.\nBeyond especially medical natural laugh. Deal increase tree much loss trip service least.'
+ 'Particularly find beautiful learn factor. He question father nor politics development early.\nPiece major fill maybe consider baby figure traditional.'
+ 'Subject able we station purpose. Control figure practice their thousand soon. Need statement whatever only network boy particularly.'
+ 'Sometimes gas anyone natural almost discussion rise. Around modern a bit process send away which.']"
+5,10000,0.0,"['1997-09-10 10:39:37' '2012-08-08 12:58:21' '1990-11-05 16:10:44'
+ '1980-01-11 17:47:16' '2014-01-09 06:29:07' '1990-03-22 19:10:23'
+ '2018-05-01 08:11:56' '1982-06-05 02:38:29' '1999-08-11 09:52:14'
+ '1970-05-18 16:59:44']"
+6,8,0.0516,['store g' 'store d' 'store a' 'store c' 'store f' 'store b' 'store e' nan]
+7,792,0.2018,[255.55    nan  37.9  142.63  38.69 232.76 464.32 427.66 317.68  33.  ]
+8,1000,0.0,"['15b72793-4ed1-4d69-b4f0-70a0ef025817'
+ '3b68d9e6-fd32-4dbd-a18e-9ea75e1e2530'
+ '540bb212-e7b9-4faa-8fcd-f07bf6d2c3e3'
+ 'd6c32ee6-6785-4545-90ab-b9b1010d1747'
+ 'dfea9fe3-c303-46b4-a961-f608473e3fb3'
+ '29efa5b6-ab17-4b84-b121-ed62019b609f'
+ '83594293-5112-4558-97e2-499977fc33f6'
+ '4e732284-3829-4b37-91de-459b6d029780'
+ '23b1dbe8-39a2-4e39-bbea-11eb68bbb86a'
+ 'ba1c4a5c-6224-467f-8dad-54321cbaa6fa']"
+9,6,0.0478,['neutral' 'very high' 'very low' nan 'low' 'high']
+10,3,0.0696,[ 1.  0. nan]
+11,110,0.8928,"[nan
+ 'Author first believe boy people different. Himself democratic interview employee. Actually anyone page watch girl water federal player.'
+ 'Shoulder power almost determine skin finish.\nNew threat hand and enough operation. Itself avoid the appear. Get generation question.'
+ 'Wall house number toward. Truth life who also yes heart decide.\nIndeed why truth. Consumer nor his character. Use visit particular.\nCustomer loss a wrong. Care performance voice action a.'
+ 'Them yard piece as one Congress yard. Table similar second least student. Across ever environment send office.'
+ 'Physical deal may budget off describe may. Near staff agree water. Middle garden away difficult approach land care health. Bill happy detail capital west trip.'
+ 'Story it simply serve help bill reflect hit. Or between participant care between. Action stock security drive general. Drive order from sign laugh.'
+ 'Either Democrat couple contain character where. Talk difference memory others. Offer our fund call sing.'
+ 'But charge worry here development prevent. Camera special food economic join garden artist.'
+ 'These much how several. Laugh vote full movie bad situation mind field.']"
+12,92,0.0957,"['687 Rasmussen Isle Suite 897\nWest Jasmineville, SD 59099'
+ '562 Darrell Valleys\nPort Isaiah, UT 68582'
+ '6096 Don Village Apt. 230\nKellymouth, AR 06904' nan
+ '409 Samuel Ramp\nSouth Alexander, ID 08895'
+ '0946 Franklin Forges\nClineside, VT 65196'
+ '3121 Lisa Shores Apt. 128\nSarahland, SC 03412'
+ '0522 Roth Summit\nNew Stephanie, SC 40606'
+ '1965 James Highway Apt. 607\nEast Ashley, KY 31215'
+ '226 Teresa Ports\nChelseyborough, DC 48726']"
+13,81,0.0272,"['Barbados' 'United Kingdom' 'Puerto Rico' 'Finland'
+ 'Antarctica (the territory South of 60 deg S)' 'Niger'
+ 'Dominican Republic' 'Belgium' 'Tajikistan' 'Singapore']"
+14,90,0.0836,"['christian23@hotmail.com' 'brenda67@yahoo.com' 'ambermiller@parker.biz'
+ 'qchambers@collins.info' 'michael70@gmail.com'
+ 'fernandezmegan@rose-stephens.com' 'uluna@jones.biz'
+ 'dchambers@gmail.com' 'friedmanemily@gmail.com' 'vsnyder@young.com']"
+15,61,0.2511,"['Teal' 'DarkSalmon' nan 'Thistle' 'DimGray' 'PeachPuff' 'DarkGoldenRod'
+ 'CadetBlue' 'Gainsboro' 'LightCyan']"
+16,82,0.0549,"['Heidi' 'Wendy' 'Alexis' 'Clayton' 'Vicki' 'Alyssa' 'Hannah' 'Andrew'
+ 'Laura' 'Pamela']"
+17,3,0.0396,['female' 'male' nan]
+18,100,0.0,"['2e20d322-cc52-49a5-bb94-90fe2bcf6ea9'
+ 'dbc73442-133f-4695-aa7b-b096031205ec'
+ '9a03391e-1986-4e5b-ad5c-5bdd449419b4'
+ 'eb965a9d-01ac-405c-a7f9-4350cd479f36'
+ '7b401849-cc78-42cd-9642-f04d205e8852'
+ 'fe7c2da7-d194-47be-b17f-22afb59c84ca'
+ '1b03a74b-a69c-4364-b4dc-94cc3c3e819e'
+ 'b83232b6-ca18-4168-9b49-a33c2e565dce'
+ 'f69044b7-f70a-495f-b4b1-a853ec7eae2d'
+ 'eee76e33-a46d-428b-8fae-890e5d41a28a']"
+19,86,0.0676,"[nan 'Gutierrez' 'Woodard' 'Bates' 'Alvarez' 'Hernandez' 'Roth' 'Norton'
+ 'Webb' 'Smith']"
+20,45,0.0,['2005' '1983' '1981' '1973' '1988' '2014' '1985' '1978' '1974' '1989']
+21,4,0.0346,['plan A' 'plan B' 'Plan C' nan]
+22,95,0.0285,"['http://www.taylor.com/' 'http://www.olson-knight.com/'
+ 'https://lopez.biz/' 'https://www.moore.com/' 'https://www.johnson.com/'
+ 'https://www.donaldson.org/' 'http://www.stewart-brown.net/' nan
+ 'http://www.burke.org/' 'https://www.nguyen.com/']"
